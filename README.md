@@ -1,5 +1,6 @@
 # This is my Github
 ![cover-repo](https://github.com/user-attachments/assets/7dfc78ae-c9e0-4227-b334-a7f8a962d75c)
+<img src = "https://unsplash.com/photos/a-macbook-with-lines-of-code-on-its-screen-on-a-busy-desk-m_HRfLhgABo" alt="first"></img>
 <h1 align="center">Hi 👋, I'm Joshua Owens</h1>
 <h3 align="center">A passionate full stack developer from United State</h3>
 
